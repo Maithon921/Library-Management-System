@@ -35,6 +35,3 @@ The **Library Management System** is a web-based application built using React, 
 Feel free to fork this repository and submit pull requests for improvements.
 
 
-## GitHub link:
-https://github.com/Maithon921/Library-Management-System
-
